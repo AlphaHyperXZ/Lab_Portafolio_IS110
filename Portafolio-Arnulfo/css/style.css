@@ -1,0 +1,28 @@
+
+/*TODO*/
+body{
+    margin: 0px;
+    background: linear-gradient(to bottom, #211f20, #413a3a);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+/*NAVEGACION*/
+
+/*SECTION*/
+
+.colortexto{
+    color: #c0d1e2;
+}
+.imagen{
+    border-radius: 55px;
+    height: 450px
+}
+.cardf{
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    
+}
+/*FOOTER*/
+.imagencard{
+    height: 600px;
+}
+
